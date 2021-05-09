@@ -44,7 +44,7 @@ python3 main.py
 
 If you want to start with an empty user intead of using the ones we've created run the following command:
 ```
-rm ./data/users.json && python3 add_user.py
+rm ./db/users.json && python3 add_person.py
 ```
 
 ## The user interface
