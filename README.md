@@ -2,7 +2,7 @@
 
 
 ## Environment
-The application requires elasticsearch to be running. For simplicity the dataset can be loaded through Kibana. Thus, make sure you have the following setup:
+The application requires elasticsearch to be running. For simplicity the movie dataset can be loaded through Kibana. Thus, make sure you have the following setup:
 
 ```
 elasticsearch (we used version 7.12.1)
