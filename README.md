@@ -1,4 +1,4 @@
-# DD2476-ir-project
+# DD2476 Project
 
 
 ## Environment
