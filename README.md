@@ -39,12 +39,12 @@ The project uses tinydb which stores its data in json file. We store the user pr
 When all dependencies are installed, the application can be run with the following command:
 
 ```
-python3 main.py
+python main.py
 ```
 
 If you want to start with an empty user intead of using the ones we've created run the following command:
 ```
-rm ./db/users.json && python3 add_person.py
+rm ./db/users.json && python add_person.py
 ```
 
 ## The user interface
